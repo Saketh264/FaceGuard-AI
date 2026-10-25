@@ -1,0 +1,54 @@
+# =======================================================
+# FaceGuard AI: Core Deep Learning & Forensic Dependencies
+# =======================================================
+
+# PyTorch Deep Learning Framework & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing & Data Processing
+numpy>=1.23.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Image Processing & Augmentation
+pillow>=9.5.0
+albumentations>=1.0.3
+
+# Evaluation Metrics & Machine Learning Tools
+scikit-learn>=1.2.0
+
+# Network Backbones
+efficientnet-pytorch>=0.7.1
+
+# Progress Bars & CLI Utilities
+tqdm>=4.65.0
+
+# Optional: Streamlit Dashboard (for `streamlit run streamlit_app.py`)
+streamlit>=1.28.0
+
+# PyTorch Deep Learning Framework & Computer Vision
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing & Data Processing
+numpy>=1.23.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Image Processing & Augmentation
+pillow>=9.5.0
+albumentations>=1.0.3
+
+# Evaluation Metrics & Machine Learning Tools
+scikit-learn>=1.2.0
+
+# Network Backbones
+efficientnet-pytorch>=0.7.1
+
+# Progress Bars & CLI Utilities
+tqdm>=4.65.0
+
+# Optional: Streamlit Dashboard (for `streamlit run streamlit_app.py`)
+streamlit>=1.28.0
+
